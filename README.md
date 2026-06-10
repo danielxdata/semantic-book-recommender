@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analyse et Classement Intelligent d'une Bibliothèque Numérique
 
 **Classification sémantique et système de recommandation basé sur le NLP**
@@ -331,3 +332,4 @@ Les techniques utilisées (NLP classique + ML) sont **scalables, interpretables,
 **Dernière mise à jour** : 2026  
 **Version** : 1.0  
 **Statut** : ✅ Production-Ready
+
