@@ -125,11 +125,11 @@ Classification & Recommandation
 ```
 Livre demandé : "alice-in-wonderland"
 Livres similaires recommandés :
-  1. [Book Title 1] - Distance: 0.15
-  2. [Book Title 2] - Distance: 0.22
-  3. [Book Title 3] - Distance: 0.28
-  4. [Book Title 4] - Distance: 0.31
-  5. [Book Title 5] - Distance: 0.35
+  1. [Through the Looking-Glass] - Distance: 0.15
+  2. [The Magic Fishbone] - Distance: 0.81
+  3. [Among the Forest People] - Distance: 0.82
+  4. [Mother Storie] - Distance: 0.828
+  5. [Sandman_s Goodnight Stories] - Distance: 0.829
 ```
 
 ---
