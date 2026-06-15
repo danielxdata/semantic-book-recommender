@@ -3,5 +3,3 @@ nltk
 matplotlib
 seaborn
 wordcloud
-import-ipynb
-notebook

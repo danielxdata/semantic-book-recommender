@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Analyse et Classement Intelligent d'une Bibliothèque Numérique
 
 **Classification sémantique et système de recommandation basé sur le NLP**
@@ -28,29 +27,29 @@ Ce projet implémente un pipeline complet de **traitement du langage naturel (NL
 
 ## 🎯 Problèmes Métier Résolus
 
-### 1. **Désorganisation du Catalogue** ❌ -> ✅
+### 1. **Désorganisation du Catalogue** 
 **Défi** : Une bibliothèque de 52 livres sans classification claire, rendant la découverte difficile pour les utilisateurs.
 
 **Solution** : Classification automatique en 3 thèmes majeurs, permettant une navigation intuitive et une meilleure expérience utilisateur.
 
-### 2. **Recommandations Manuelles Coûteuses** ❌ -> ✅
+### 2. **Recommandations Manuelles Coûteuses** 
 **Défi** : Les recommandations étaient basées sur des heuristiques manuelles, gourmandes en temps et peu précises.
 
 **Solution** : Moteur de recommandation automatisé utilisant l'analyse sémantique (similarité cosinus), fournissant 5 suggestions pertinentes par livre.
 
-### 3. **Manque d'Insights sur le Contenu** ❌ -> ✅
+### 3. **Manque d'Insights sur le Contenu** 
 **Défi** : Absence de vue d'ensemble sur la composition thématique de la collection.
 
 **Solution** : Identification des thèmes dominants, détection de lacunes, et opportunités d'expansion catalogale.
 
-### 4. **Scalabilité Manuelle** ❌ -> ✅
+### 4. **Scalabilité Manuelle** 
 **Défi** : Ajouter 100 nouveaux livres requiert une révision entière du système.
 
 **Solution** : Pipeline entièrement automatisable, peut intégrer de nouveaux livres en quelques secondes.
 
 ---
 
-## 🔬 Méthodologie Scientifique
+## Méthodologie Scientifique
 
 ### **Pipeline de Traitement**
 
@@ -84,7 +83,7 @@ Classification & Recommandation
 
 ---
 
-## 📈 Résultats Détaillés
+##  Résultats Détaillés
 
 ### **Analyse Exploratoire des Données**
 
@@ -135,7 +134,7 @@ Livres similaires recommandés :
 
 ---
 
-## 🚀 Guide d'Utilisation
+## Guide d'Utilisation
 
 ### **Prérequis**
 ```bash
@@ -171,7 +170,7 @@ for book, score in recommendations:
 
 ---
 
-## 📦 Dépendances
+## Dépendances
 
 ```
 pandas         - Manipulation et analyse de données
@@ -273,7 +272,7 @@ Recommande les 10 citations les plus pertinentes
 
 ---
 
-## 🔐 Qualité & Validation
+## Qualité & Validation
 
 ### **Tests et Validation**
 
@@ -292,7 +291,7 @@ Recommande les 10 citations les plus pertinentes
 
 ---
 
-## 🎓 Apprentissages & Best Practices
+## Apprentissages & Best Practices
 
 ### **Recommandations pour des Projets Similaires**
 
@@ -304,11 +303,11 @@ Recommande les 10 citations les plus pertinentes
 
 ---
 
-## 📞 Support & Questions
+## Support & Questions
 
 Pour toute question sur ce projet :
-- 📧 Consultez le notebook `projetNlp.ipynb` pour les détails techniques
-- 📊 Vérifiez les outputs du pipeline pour valider les résultats
+- Consultez le notebook `projetNlp.ipynb` pour les détails techniques
+- Vérifiez les outputs du pipeline pour valider les résultats
 -  Le code est conçu pour être facilement adaptable à d'autres corpus
 
 ---
@@ -319,7 +318,7 @@ Ce projet est fourni à titre éducatif. Voir `LICENSE` pour plus de détails.
 
 ---
 
-## 🏆 Conclusion
+## Conclusion
 
 Ce projet démontre comment transformer une collection textuelle brute en **asset numérique stratégique** :
 
